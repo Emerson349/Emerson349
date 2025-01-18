@@ -16,4 +16,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson_h9/)
 
-Estudante de Ciências da computação na Universaidade Federal de Campina Grande.
+Estudante de Ciências da computação na Universidade Federal de Campina Grande.
