@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=Emerson349&show_icons=true&theme=radical)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emerson349&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emerson349&theme=jolly&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emerson349&theme=jolly) |
+| :-: | :-: | :-: |
+
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emerson349&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| :-: |
+
+![Static Badge](https://img.shields.io/badge/instagram-1A0029?style=for-the-badge&logo=instagram)
+[![Email](https://img.shields.io/badge/Email-emersonhenriquesulpinoaraujo%40gmail.com-1A0029?style=for-the-badge)](mailto:emersonhenriquesulpinoaraujo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A0029?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-henrique-894129399/)
 
 ### Tecnologias usadas
 
@@ -13,8 +21,6 @@
 </div>
 
 ### Redes
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson_h9/)
 
 Estudante de Ciências da computação na Universidade Federal de Campina Grande.
 
