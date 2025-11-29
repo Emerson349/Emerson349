@@ -1,49 +1,88 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1A0029&reversal=false" width="100%" />
 
 <div align="center">
 
-<!-- Cards principais -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emerson349&theme=jolly" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emerson349&theme=jolly&utcOffset=8" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emerson349&theme=jolly" />
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F6F6F6&center=true&vCenter=true&width=500&lines=Hello+there%2C+I'm+Emerson"
+      alt="Typing Animation 1"
+    />
+  </a>
 
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=18&pause=1000&color=8700FF&center=true&vCenter=true&width=500&lines=I'm+a+Computer+Science+student+at+UFCG"
+      alt="Typing Animation 2"
+    />
+  </a>
+
+</div>
+
+
+
+
+<div align="center">
+
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emerson349&theme=jolly" 
+    width="280"
+  />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emerson349&theme=jolly&utcOffset=8" 
+    width="280"
+  />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emerson349&theme=jolly" 
+    width="280"
+  />
+  <br><br>
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emerson349&theme=jolly" 
+    width="600"
+  />
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="http://github-readme-streak-stats.herokuapp.com?user=Emerson349&theme=jolly&hide_border=true" 
+      width="600"
+    />
+  </a>
+
+</div>
 <br><br>
-
-<!-- Streak sem borda -->
-<a href="https://git.io/streak-stats">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Emerson349&theme=jolly&hide_border=true" />
+<!-- Instagram -->
+<a href="https://www.instagram.com/">
+  <img height="32" src="https://img.shields.io/badge/Instagram-1A0029?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
-
-<!-- Badges -->
-<img src="https://img.shields.io/badge/instagram-1A0029?style=for-the-badge&logo=instagram" />
+<!-- Email (sem mostrar o endereço!) -->
 <a href="mailto:emersonhenriquesulpinoaraujo@gmail.com">
-<img src="https://img.shields.io/badge/Email-emersonhenriquesulpinoaraujo%40gmail.com-1A0029?style=for-the-badge" />
+  <img height="32" src="https://img.shields.io/badge/Email-1A0029?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/emerson-henrique-894129399/">
-<img src="https://img.shields.io/badge/LinkedIn-1A0029?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/LinkedIn-1A0029?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-### Tecnologias usadas
-
-<div style="display: inline_block">
-    <img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=java" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=python" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=html" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=react" width="30" height="30" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="30" height="30" />
 </div>
 
+
 ---
-
-### Redes
-
-Estudante de Ciências da computação na Universidade Federal de Campina Grande.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emerson349/Emerson349/output/github-contribution-grid-snake-dark.svg">
