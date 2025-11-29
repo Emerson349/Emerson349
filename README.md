@@ -13,6 +13,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=CFA7FF&width=600&lines=Hello+there%2C+I'm+Emerson;I'm+a+Computer+Science+student+at+UFCG)](https://git.io/typing-svg)
 </div>
 
+<br>
+
 <!-- Top 3 cards: lado a lado, size padronizado -->
 <div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap; align-items:center; margin-bottom:18px;">
   <img
@@ -35,6 +37,7 @@
   />
 </div>
 
+<br>
 <!-- Profile details (maior) + Streak (menor) lado a lado -->
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; align-items:center; margin-bottom:18px;">
   <img
@@ -53,6 +56,8 @@
     />
   </a>
 </div>
+
+<br><br>
 
 <!-- Contact badges (centered). Email não aparece, apenas 'Contact' -> mailto link -->
 <p align="center" style="margin-bottom:18px;">
@@ -81,6 +86,8 @@
   <img src="https://skillicons.dev/icons?i=react" width="30" height="30" alt="React" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="30" height="30" alt="FastAPI" />
 </div>
+
+<br>
 
 <!-- Snake / contributions -->
 <p align="center" style="margin-top:18px;">
