@@ -23,19 +23,19 @@
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emerson349&theme=jolly"
     alt="Stats Card"
-    width="280"
+    width="250"
     style="max-width:200px; height:auto;"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emerson349&theme=jolly&utcOffset=8"
     alt="Productive Time Card"
-    width="280"
+    width="250"
     style="max-width:200px; height:auto;"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emerson349&theme=jolly"
     alt="Most Commit Language Card"
-    width="280"
+    width="250"
     style="max-width:200px; height:auto;"
   />
 </div>
