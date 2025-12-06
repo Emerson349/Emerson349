@@ -40,7 +40,7 @@
   />
 </div>
 
-<br>
+<br><br>
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emerson349&theme=jolly"
@@ -74,6 +74,8 @@
     <img height="32" src="https://img.shields.io/badge/LinkedIn-1A0029?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<br>
 
 <!-- Skills icons (centered, wrap) -->
 <div align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap; align-items:center; margin-bottom:18px;">
