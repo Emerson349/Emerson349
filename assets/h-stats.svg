@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" fill="none" role="img" aria-label="STATISTICS">
+  <style>
+    .t { font-family: 'JetBrains Mono','SF Mono','Fira Code',Consolas,'Courier New',monospace; }
+    .fade { animation: fade .8s ease-out both; }
+    @keyframes fade { from { opacity: 0; } }
+    .blink { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs><filter id="g" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 .08"/></feComponentTransfer>
+    </filter></defs>
+  <line x1="20" y1="22" x2="336.0" y2="22" stroke="#3a3a3a" stroke-dasharray="2 5"/>
+  <line x1="564.0" y1="22" x2="880" y2="22" stroke="#3a3a3a" stroke-dasharray="2 5"/>
+  <rect x="342.0" y="19" width="3" height="6" fill="#3a3a3a"/>
+  <rect x="555.0" y="19" width="3" height="6" fill="#3a3a3a"/>
+  <rect x="350.0" y="8" width="200" height="28" rx="3" fill="#050505" stroke="#262626"/>
+  <rect x="350.0" y="8" width="200" height="28" rx="3" filter="url(#g)"/>
+  <path d="M350.0,14 V8 H356.0 M544.0,8 H550.0 V14 M350.0,30 V36 H356.0 M544.0,36 H550.0 V30" stroke="#5a5a5a"/>
+  <g class="t fade">
+    <text x="366.0" y="26.5" font-size="11" fill="#8b8b8b" letter-spacing="1">03</text>
+    <text x="390.0" y="26.5" font-size="11" fill="#5a5a5a">//</text>
+    <text x="408.0" y="26.5" font-size="12" font-weight="700" fill="#f2f2f2" letter-spacing="2">STATISTICS</text>
+    <rect x="530.0" y="17" width="6" height="11" fill="#f2f2f2" class="blink"/>
+  </g>
+</svg>
